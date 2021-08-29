@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @majiddevops
+- 👋 Hi, I’m @majidfeiz
 - 👀 I’m interested in DevOps , python , php , golang
 - 💞️ I’m looking to collaborate on devops
 
