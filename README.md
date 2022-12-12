@@ -13,6 +13,7 @@
 
 </br>
 
+<!--
 <h2>⚙️ &nbsp;GitHub Analytics</h2>
 <p align="center">
 <a href="https://github.com/majidfeiz">
@@ -22,3 +23,4 @@
 </p>
 <h2>🔒 Github Streak:</h2>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=majidfeiz&" alt="meow!" /></p>
+-->
